@@ -1,3 +1,4 @@
+// PROJETO SEGUINDO O PADRÃO RECOMENDADO PELO PROFESSOR 
 package application;
 
 import javafx.application.Application;
